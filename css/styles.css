@@ -7,6 +7,8 @@ body {
     margin: 0;
     font-family: Acme, serif, Verdana, Geneva;
     color: white;
+    width: 100vw;
+    height: 100vh;
 }
 #hero {
     padding: 119px 154px;
