@@ -7,8 +7,6 @@ body {
     margin: 0;
     font-family: Acme, serif, Verdana, Geneva;
     color: white;
-    width: 100vw;
-    height: 100vh;
 }
 #hero {
     padding: 119px 154px;
@@ -77,9 +75,6 @@ body {
     text-align: start;
 }
 
-h3 {
-    text-align: center;
-}
 .day-trip {
     margin: 0 20px;
     width: 200px;
@@ -87,7 +82,6 @@ h3 {
 
 .soft-img {
     border-radius: 15px;
-    text-align: center;
 }
 
 ul {
