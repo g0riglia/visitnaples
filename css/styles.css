@@ -77,6 +77,9 @@ body {
     text-align: start;
 }
 
+h3 {
+    text-align: center;
+}
 .day-trip {
     margin: 0 20px;
     width: 200px;
@@ -84,6 +87,7 @@ body {
 
 .soft-img {
     border-radius: 15px;
+    text-align: center;
 }
 
 ul {
