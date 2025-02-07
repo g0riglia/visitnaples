@@ -10,7 +10,7 @@ body {
 }
 #hero {
     padding: 119px 154px;
-    background-image: url("../images/naples.png");
+    background-image: url("../images/naples.jpg");
     background-size: cover;
     text-align: center;
     display: flex;
